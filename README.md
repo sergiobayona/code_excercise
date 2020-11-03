@@ -50,3 +50,5 @@ Run test:
 ```
 ruby ./soccer_test.rb 
 ```
+
+author: Sergio Bayona
